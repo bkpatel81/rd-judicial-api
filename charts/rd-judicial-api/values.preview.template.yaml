@@ -19,7 +19,7 @@ java:
     ELINKS_URL: https://judiciary-middleware-futureehr.herokuapp.com/api/v5
     LAST_UPDATED: 2014-01-01
     SCHEDULER_ENABLED: true
-    CRON_EXPRESSION: "* 30 10 * * *"
+    CRON_EXPRESSION: "* 30 11 * * *"
   postgresql:
     enabled: true
     auth:
